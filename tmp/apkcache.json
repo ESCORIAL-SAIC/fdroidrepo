@@ -1,0 +1,75 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "com.escorial.transferencias-1.0.0-dev-10035.apk": {
+    "hash": "653830573224c4f5194b51d0b4f3968183236cc6182a0a9e88f32f8ea27ece3f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "com.escorial.transferencias.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/escorial_icon.png",
+      "240": "res/mipmap-hdpi-v4/escorial_icon.png",
+      "320": "res/mipmap-xhdpi-v4/escorial_icon.png",
+      "480": "res/mipmap-xxhdpi-v4/escorial_icon.png",
+      "640": "res/mipmap-xxxhdpi-v4/escorial_icon.png",
+      "-1": "res/mipmap-mdpi-v4/escorial_icon.png"
+    },
+    "icons": {
+      "640": "com.escorial.transferencias.10035.png",
+      "480": "com.escorial.transferencias.10035.png",
+      "320": "com.escorial.transferencias.10035.png",
+      "240": "com.escorial.transferencias.10035.png",
+      "160": "com.escorial.transferencias.10035.png",
+      "0": "com.escorial.transferencias.10035.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.escorial.transferencias",
+    "versionCode": 10035,
+    "name": "Transferencias",
+    "versionName": "1.0.0-dev",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0ee483bd6f09d86ac2213d4a65e2f387",
+    "signer": "eaf2e1b07007bd8fd950e5cd0c013d796de5e442ce3669de9aa722b564e155b7",
+    "size": 51566285,
+    "apkName": "com.escorial.transferencias-1.0.0-dev-10035.apk",
+    "icon": "com.escorial.transferencias.10035.png",
+    "added": 1756407214.093591
+  }
+}
