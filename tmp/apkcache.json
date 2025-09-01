@@ -52,7 +52,7 @@
       "160": "com.escorial.transferencias.10035.png",
       "0": "com.escorial.transferencias.10035.png"
     },
-    "antiFeatures": {},
+    "antiFeatures": [],
     "packageName": "com.escorial.transferencias",
     "versionCode": 10035,
     "name": "Transferencias",
@@ -123,7 +123,7 @@
       "160": "com.escorial.transferencias.10037.png",
       "0": "com.escorial.transferencias.10037.png"
     },
-    "antiFeatures": {},
+    "antiFeatures": [],
     "packageName": "com.escorial.transferencias",
     "versionCode": 10037,
     "name": "Transferencias",
@@ -154,5 +154,76 @@
     "packageName": "9fc39ed254b24a2954540033d59b3c44a237b9654ad128adbbc1f71faf3cba08",
     "size": 12,
     "added": 1756735371.456282
+  },
+  "com.escorial.transferencias-1.0.0-dev-10037.apk": {
+    "hash": "acbd9db2eb0db7a973782cc8e9fb5f201d590f403d819e61b02b6ae9b0d01dcb",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "com.escorial.transferencias.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/escorial_icon.png",
+      "240": "res/mipmap-hdpi-v4/escorial_icon.png",
+      "320": "res/mipmap-xhdpi-v4/escorial_icon.png",
+      "480": "res/mipmap-xxhdpi-v4/escorial_icon.png",
+      "640": "res/mipmap-xxxhdpi-v4/escorial_icon.png",
+      "-1": "res/mipmap-mdpi-v4/escorial_icon.png"
+    },
+    "icons": {
+      "640": "com.escorial.transferencias.10037.png",
+      "480": "com.escorial.transferencias.10037.png",
+      "320": "com.escorial.transferencias.10037.png",
+      "240": "com.escorial.transferencias.10037.png",
+      "160": "com.escorial.transferencias.10037.png",
+      "0": "com.escorial.transferencias.10037.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.escorial.transferencias",
+    "versionCode": 10037,
+    "name": "Transferencias",
+    "versionName": "1.0.0-dev",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0ee483bd6f09d86ac2213d4a65e2f387",
+    "signer": "eaf2e1b07007bd8fd950e5cd0c013d796de5e442ce3669de9aa722b564e155b7",
+    "size": 51566285,
+    "apkName": "com.escorial.transferencias-1.0.0-dev-10037.apk",
+    "icon": "com.escorial.transferencias.10037.png",
+    "added": 1756750434.450209
   }
 }
