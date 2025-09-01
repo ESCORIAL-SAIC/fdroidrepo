@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: 'Escorial SAIC'
 Categories:
-- fdroid-repo
+- transferencias
 CurrentVersionCode: 10035
-IssueTracker: ''
+IssueTracker: 'https://github.com/ESCORIAL-SAIC/Transferencias/issues'
 Name: Transferencias
-SourceCode: ''
+SourceCode: 'https://github.com/ESCORIAL-SAIC/Transferencias'
 Summary: ''
-WebSite: ''
+WebSite: 'https://www.escorial.com.ar/'
