@@ -1,9 +1,9 @@
 AuthorName: ''
 Categories:
-- fdroid-repo
-CurrentVersionCode: 10035
+- fdroidrepo
+CurrentVersionCode: 2147483647
 IssueTracker: ''
-Name: Transferencias
+Name: categories
 SourceCode: ''
 Summary: ''
 WebSite: ''
