@@ -5,5 +5,5 @@ CurrentVersionCode: 10035
 IssueTracker: 'https://github.com/ESCORIAL-SAIC/Transferencias/issues'
 Name: Transferencias
 SourceCode: 'https://github.com/ESCORIAL-SAIC/Transferencias'
-Summary: ''
+Summary: 'Aplicación móvil para la gestión de transferencias de stock entre depósitos.'
 WebSite: 'https://www.escorial.com.ar/'
