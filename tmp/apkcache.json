@@ -52,7 +52,7 @@
       "160": "com.escorial.transferencias.10035.png",
       "0": "com.escorial.transferencias.10035.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.escorial.transferencias",
     "versionCode": 10035,
     "name": "Transferencias",
@@ -123,7 +123,7 @@
       "160": "com.escorial.transferencias.10037.png",
       "0": "com.escorial.transferencias.10037.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.escorial.transferencias",
     "versionCode": 10037,
     "name": "Transferencias",
@@ -146,14 +146,14 @@
   "categories.txt": {
     "name": "categories",
     "apkName": "categories.txt",
-    "hash": "9fc39ed254b24a2954540033d59b3c44a237b9654ad128adbbc1f71faf3cba08",
+    "hash": "5aca750cf697941c92aedd2b4942669b1ff28ad0141444d437d58365897ea0ea",
     "hashType": "sha256",
     "ipfsCIDv1": null,
     "versionCode": 0,
-    "versionName": "9fc39ed",
-    "packageName": "9fc39ed254b24a2954540033d59b3c44a237b9654ad128adbbc1f71faf3cba08",
-    "size": 12,
-    "added": 1756735371.456282
+    "versionName": "5aca750",
+    "packageName": "5aca750cf697941c92aedd2b4942669b1ff28ad0141444d437d58365897ea0ea",
+    "size": 15,
+    "added": 1756834932.888498
   },
   "com.escorial.transferencias-1.0.0-dev-10037.apk": {
     "hash": "acbd9db2eb0db7a973782cc8e9fb5f201d590f403d819e61b02b6ae9b0d01dcb",
@@ -206,7 +206,7 @@
       "160": "com.escorial.transferencias.10037.png",
       "0": "com.escorial.transferencias.10037.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.escorial.transferencias",
     "versionCode": 10037,
     "name": "Transferencias",
@@ -277,7 +277,7 @@
       "160": "com.escorial.transferencias.10039.png",
       "0": "com.escorial.transferencias.10039.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.escorial.transferencias",
     "versionCode": 10039,
     "name": "Transferencias",
@@ -348,7 +348,7 @@
       "160": "com.escorial.transferencias.10011.png",
       "0": "com.escorial.transferencias.10011.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.escorial.transferencias",
     "versionCode": 10011,
     "name": "Transferencias",
