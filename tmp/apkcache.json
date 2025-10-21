@@ -640,5 +640,35 @@
     "size": 12282817,
     "apkName": "com.escorial.pallet_cocinas-1.1-1.apk",
     "added": 1761061928.926203
+  },
+  "com.escorial.pallet_cocinas-1.0.2-3.apk": {
+    "hash": "be94022caa6820fd671edd18d3c679fef5a0f9a954b803c71c515c1b5d1c97a4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.escorial.pallet_cocinas.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.escorial.pallet_cocinas",
+    "versionCode": 3,
+    "name": "Pallets",
+    "versionName": "1.0.2",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 35,
+    "sig": "0ee483bd6f09d86ac2213d4a65e2f387",
+    "signer": "eaf2e1b07007bd8fd950e5cd0c013d796de5e442ce3669de9aa722b564e155b7",
+    "size": 12282817,
+    "apkName": "com.escorial.pallet_cocinas-1.0.2-3.apk",
+    "added": 1761063438.429571
   }
 }

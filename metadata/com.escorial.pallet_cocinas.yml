@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: 'Escorial SAIC'
 Categories:
-- fdroidrepo
-CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: pallet-cocinas
-SourceCode: ''
-Summary: ''
-WebSite: ''
+- pallets
+CurrentVersionCode: 3
+IssueTracker: 'https://github.com/ESCORIAL-SAIC/pallet-cocinas/issues'
+Name: Pallets
+SourceCode: 'https://github.com/ESCORIAL-SAIC/pallet-cocinas'
+Summary: 'Aplicación móvil para la gestión de pallets y logística.'
+WebSite: 'https://www.escorial.com.ar/'
