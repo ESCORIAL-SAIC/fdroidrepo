@@ -580,5 +580,65 @@
     "apkName": "com.escorial.transferencias-1.0.1-10048.apk",
     "icon": "com.escorial.transferencias.10048.png",
     "added": 1756911672.152614
+  },
+  "com.escorial.pallet_cocinas-1.0.1-2.apk": {
+    "hash": "836a98a694238f0a57a20fa9a4733cedc8634fc613f80f444f6dc87d9d72260a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.escorial.pallet_cocinas.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.escorial.pallet_cocinas",
+    "versionCode": 2,
+    "name": "pallet-cocinas",
+    "versionName": "1.0.1",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 35,
+    "sig": "0ee483bd6f09d86ac2213d4a65e2f387",
+    "signer": "eaf2e1b07007bd8fd950e5cd0c013d796de5e442ce3669de9aa722b564e155b7",
+    "size": 12282817,
+    "apkName": "com.escorial.pallet_cocinas-1.0.1-2.apk",
+    "added": 1761061927.213791
+  },
+  "com.escorial.pallet_cocinas-1.1-1.apk": {
+    "hash": "a6023cdfb8a3a79becb7f7db0d0dab50a2ee99f1a95b0ac78e85d6484f6a1517",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.escorial.pallet_cocinas.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.escorial.pallet_cocinas",
+    "versionCode": 1,
+    "name": "pallet-cocinas",
+    "versionName": "1.0",
+    "minSdkVersion": 28,
+    "targetSdkVersion": 35,
+    "sig": "0ee483bd6f09d86ac2213d4a65e2f387",
+    "signer": "eaf2e1b07007bd8fd950e5cd0c013d796de5e442ce3669de9aa722b564e155b7",
+    "size": 12282817,
+    "apkName": "com.escorial.pallet_cocinas-1.1-1.apk",
+    "added": 1761061928.926203
   }
 }
