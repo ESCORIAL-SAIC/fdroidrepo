@@ -2,7 +2,7 @@ AuthorName: 'Escorial SAIC'
 Categories:
 - Escorial
 - Pallets
-CurrentVersionCode: 3
+CurrentVersionCode: 4
 IssueTracker: 'https://github.com/ESCORIAL-SAIC/pallet-cocinas/issues'
 Name: Pallets
 SourceCode: 'https://github.com/ESCORIAL-SAIC/pallet-cocinas'
