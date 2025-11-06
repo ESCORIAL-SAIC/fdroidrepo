@@ -1,9 +1,10 @@
-AuthorName: ''
+AuthorName: 'Escorial SAIC'
 Categories:
-- fdroid-repo
-CurrentVersionCode: 2147483647
-IssueTracker: ''
+- Escorial
+- Producto
+CurrentVersionCode: 10130
+IssueTracker: 'https://github.com/ESCORIAL-SAIC/MuestreoHornallas/issues'
 Name: Hornallas
-SourceCode: ''
-Summary: ''
-WebSite: ''
+SourceCode: 'https://github.com/ESCORIAL-SAIC/MuestreoHornallas'
+Summary: 'Aplicación móvil para medición y muestreo de hornallas.'
+WebSite: 'https://www.escorial.com.ar/'
