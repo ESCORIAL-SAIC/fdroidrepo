@@ -464,3 +464,4 @@ keydname: CN=25M-NB-SIS-008B.ESCORIALSA.COM.AR, OU=F-Droid
 # every run, set this to true:
 #
 # refresh_scanner: true
+apksigner: /usr/bin/apksigner
