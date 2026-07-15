@@ -1,0 +1,9 @@
+AuthorName: 'Escorial SAIC'
+Categories:
+- Escorial
+- Trazabilidad
+IssueTracker: 'https://github.com/ESCORIAL-SAIC/trazabilidad/issues'
+Name: Trazabilidad
+SourceCode: 'https://github.com/ESCORIAL-SAIC/trazabilidad'
+Summary: 'Aplicación de trazabilidad de planta (control, reparación y estado de piezas).'
+WebSite: 'https://www.escorial.com.ar/'
