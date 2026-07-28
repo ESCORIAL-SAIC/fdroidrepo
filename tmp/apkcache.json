@@ -1045,5 +1045,88 @@
     "size": 11549311,
     "apkName": "com.escorial.trazabilidad-1.0.1-dev-20004.apk",
     "added": 1784129545.495251
+  },
+  "Expedicion.apk": {
+    "hash": "97c22ae2e3837f1e5717711d4282cfcb6d40fbf4daf0ef0f1f21fe92054bb26e",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_COARSE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.ACCESS_FINE_LOCATION",
+        null
+      ],
+      [
+        "android.permission.CALL_PHONE",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_CALENDAR",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/drawable-hdpi-v4/ic_launcher.png",
+      "120": "res/drawable-ldpi-v4/ic_launcher.png",
+      "160": "res/drawable-mdpi-v4/ic_launcher.png",
+      "320": "res/drawable-xhdpi-v4/ic_launcher.png",
+      "480": "res/drawable-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "480": "com.embarcadero.Expedicion.1.png",
+      "320": "com.embarcadero.Expedicion.1.png",
+      "240": "com.embarcadero.Expedicion.1.png",
+      "160": "com.embarcadero.Expedicion.1.png",
+      "120": "com.embarcadero.Expedicion.1.png",
+      "0": "com.embarcadero.Expedicion.1.png"
+    },
+    "antiFeatures": {},
+    "packageName": "com.embarcadero.Expedicion",
+    "versionCode": 1,
+    "name": "Expedicion",
+    "versionName": "1.0.0",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a",
+      "mips"
+    ],
+    "sig": "890ce318b60f202d84df087861441fea",
+    "signer": "2251c26f9cbf53fe9ebc2436c2e00f4d19f80e1b62f29f3b698dd458e0d6d782",
+    "size": 20947888,
+    "apkName": "Expedicion.apk",
+    "icon": "com.embarcadero.Expedicion.1.png",
+    "added": 1785264510.554271
   }
 }
