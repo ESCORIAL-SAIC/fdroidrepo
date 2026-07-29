@@ -1047,7 +1047,7 @@
     "added": 1784129545.495251
   },
   "Expedicion.apk": {
-    "hash": "97c22ae2e3837f1e5717711d4282cfcb6d40fbf4daf0ef0f1f21fe92054bb26e",
+    "hash": "c32d133f7659604a1530b03febc10709aec0be1c2078bf018607ec92a734111f",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -1124,9 +1124,9 @@
     ],
     "sig": "890ce318b60f202d84df087861441fea",
     "signer": "2251c26f9cbf53fe9ebc2436c2e00f4d19f80e1b62f29f3b698dd458e0d6d782",
-    "size": 20947888,
+    "size": 20947876,
     "apkName": "Expedicion.apk",
     "icon": "com.embarcadero.Expedicion.1.png",
-    "added": 1785264510.554271
+    "added": 1785264510.0
   }
 }
