@@ -1,0 +1,9 @@
+AuthorName: 'Escorial SAIC'
+Categories:
+- Escorial
+- Expedicion
+IssueTracker: 'https://github.com/ESCORIAL-SAIC/expedicion/issues'
+Name: Expedicion
+SourceCode: 'https://github.com/ESCORIAL-SAIC/expedicion'
+Summary: 'Despacho y devolución de mercadería por escaneo de etiquetas.'
+WebSite: 'https://www.escorial.com.ar/'
