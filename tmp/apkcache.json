@@ -1248,5 +1248,47 @@
     "size": 12246465,
     "apkName": "com.escorial.expedicion-0.2.0-rc.1-10203.apk",
     "added": 1789416057.962389
+  },
+  "com.escorial.trazabilidad-1.1.1-dev-20107.apk": {
+    "hash": "3cb18d03a1db55aa4aad6fd94cfa32f71eec3a7657b2c89893361547ce36de6a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "com.escorial.trazabilidad.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.camera"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.escorial.trazabilidad",
+    "versionCode": 20107,
+    "name": "Trazabilidad",
+    "versionName": "1.1.1-dev",
+    "minSdkVersion": 26,
+    "targetSdkVersion": 34,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "0ee483bd6f09d86ac2213d4a65e2f387",
+    "signer": "eaf2e1b07007bd8fd950e5cd0c013d796de5e442ce3669de9aa722b564e155b7",
+    "size": 11618690,
+    "apkName": "com.escorial.trazabilidad-1.1.1-dev-20107.apk",
+    "added": 1790257563.992242
   }
 }
